@@ -1,5 +1,5 @@
 # Project 2: Course Capstone
-#### DS-2002: Data Systems
+#### Due: Fri May 8, 2026 11:59pm
 
 # AdventureWorks Retail Sales Data Lakehouse: Medallion Architecture
 
