@@ -38,3 +38,5 @@ The final Gold table results successfully mirror the static batch results genera
 * `dim_date.csv`: The temporal dimension data.
 * `adventureworks/streaming/sales_orders/`: The partitioned JSON files used to simulate the live sales transaction stream.
 * `README.md`: Project documentation and architecture summary.
+* `adventureworks_customers.json`: The source data hosted on the MongoDB Atlas cluster.
+
